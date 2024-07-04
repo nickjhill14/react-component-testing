@@ -21,6 +21,7 @@
 
 # IDEs
 *.code-workspace
+.idea
 
 # Logs
 npm-debug.log*

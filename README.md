@@ -1,6 +1,7 @@
-# 📦 React App Template
+# 🧪 React Component Testing
 
-A template for generating React web apps.
+The supporting codebase for
+the [blog on React component testing](https://www.nicholashill.dev/blog/react-component-testing).
 
 ## 🛠️ Prerequisites
 
